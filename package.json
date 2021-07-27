@@ -1,0 +1,16 @@
+{
+  "name": "@ivangabriele/prettier-config",
+  "description": "My most commonly used Prettier config.",
+  "license": "MIT",
+  "version": "1.0.0",
+  "main": "./index.json",
+  "author": {
+    "name": "Ivan Gabriele",
+    "email": "ivan.gabriele@gmail.com",
+    "url": "https://www.ivangabriele.com"
+  },
+  "keywords": [
+    "prettier",
+    "config"
+  ]
+}
