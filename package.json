@@ -4,6 +4,12 @@
   "license": "MIT",
   "version": "1.0.0",
   "main": "./index.json",
+  "homepage": "https://github.com/ivangabriele/prettier-config#readme",
+  "repository": "ivangabriele/prettier-config",
+  "bugs": {
+    "email": "ivan.gabriele@gmail.com",
+    "url": "https://github.com/ivangabriele/prettier-config/issues"
+  },
   "author": {
     "name": "Ivan Gabriele",
     "email": "ivan.gabriele@gmail.com",
