@@ -2,7 +2,7 @@
   "name": "@ivangabriele/prettier-config",
   "description": "My most commonly used Prettier config.",
   "license": "MIT",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "./index.json",
   "homepage": "https://github.com/ivangabriele/prettier-config#readme",
   "repository": "ivangabriele/prettier-config",
