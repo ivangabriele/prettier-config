@@ -1,5 +1,8 @@
 # Shareable Prettier Config
 
+[![License][img-license]][lnk-license]
+[![NPM Version][img-npm]][lnk-npm]
+
 My most commonly used Prettier config.
 
 ## Usage
@@ -24,3 +27,11 @@ Then add this line in your `package.json`:
   "prettier": "@ivangabriele/prettier-config"
 }
 ```
+
+---
+
+[img-license]: https://img.shields.io/github/license/ivangabriele/prettier-config?style=flat-square
+[img-npm]: https://img.shields.io/npm/v/@ivangabriele/prettier-config?style=flat-square
+
+[lnk-license]: https://github.com/ivangabriele/prettier-config/blob/main/LICENSE
+[lnk-npm]: https://www.npmjs.com/package/@ivangabriele/prettier-config
