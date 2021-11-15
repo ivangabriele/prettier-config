@@ -14,6 +14,9 @@
     "husky": "7.0.4"
   },
   "prettier": ".",
+  "publishConfig": {
+    "access": "public"
+  },
   "homepage": "https://github.com/ivangabriele/prettier-config#readme",
   "repository": "ivangabriele/prettier-config",
   "bugs": {
