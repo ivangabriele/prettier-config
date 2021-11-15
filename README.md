@@ -1,9 +1,9 @@
-# Shareable Prettier Config
+# My Prettier Configuration
 
 [![License][img-license]][lnk-license]
 [![NPM Version][img-npm]][lnk-npm]
 
-My most commonly used Prettier config.
+My most commonly used Prettier configuration.
 
 ## Usage
 
@@ -19,7 +19,7 @@ or:
 npm i -DE @ivangabriele/prettier-config
 ```
 
-Then add this line in your `package.json`:
+Then add this line to your `package.json`:
 
 ```json
 {

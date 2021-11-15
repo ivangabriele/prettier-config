@@ -4,6 +4,9 @@
   "license": "MIT",
   "version": "2.0.1",
   "main": "./index.json",
+  "dependencies": {
+    "prettier": "2.4.1"
+  },
   "homepage": "https://github.com/ivangabriele/prettier-config#readme",
   "repository": "ivangabriele/prettier-config",
   "bugs": {
