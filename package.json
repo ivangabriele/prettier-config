@@ -4,9 +4,16 @@
   "license": "MIT",
   "version": "2.0.1",
   "main": "./index.json",
+  "scripts": {
+    "prepare": "husky install"
+  },
   "dependencies": {
     "prettier": "2.4.1"
   },
+  "devDependencies": {
+    "husky": "7.0.4"
+  },
+  "prettier": ".",
   "homepage": "https://github.com/ivangabriele/prettier-config#readme",
   "repository": "ivangabriele/prettier-config",
   "bugs": {
