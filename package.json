@@ -12,12 +12,16 @@
   },
   "devDependencies": {
     "@ivangabriele/commitlint-config": "1.0.1",
+    "@ivangabriele/semantic-release-config-base": "1.0.1",
     "husky": "7.0.4"
   },
   "publishConfig": {
     "access": "public"
   },
   "prettier": ".",
+  "release": {
+    "extends": "@ivangabriele/semantic-release-config-base"
+  },
   "homepage": "https://github.com/ivangabriele/prettier-config#readme",
   "repository": "ivangabriele/prettier-config",
   "bugs": {
