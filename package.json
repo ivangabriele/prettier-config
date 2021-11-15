@@ -14,10 +14,10 @@
     "@ivangabriele/commitlint-config": "1.0.1",
     "husky": "7.0.4"
   },
-  "prettier": ".",
   "publishConfig": {
     "access": "public"
   },
+  "prettier": ".",
   "homepage": "https://github.com/ivangabriele/prettier-config#readme",
   "repository": "ivangabriele/prettier-config",
   "bugs": {
