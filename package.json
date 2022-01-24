@@ -2,7 +2,7 @@
   "name": "@ivangabriele/prettier-config",
   "description": "My most commonly used Prettier config.",
   "license": "MIT",
-  "version": "3.0.1",
+  "version": "3.0.2",
   "main": "./index.json",
   "scripts": {
     "prepare": "husky install"
