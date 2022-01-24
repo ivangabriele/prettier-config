@@ -31,8 +31,10 @@ Then add this line to your `package.json`:
 
 ### With Yarn Plug'n'Play
 
+#### Visual Studio Code
+
 ```sh
-yarn unplug -R @ivangabriele/prettier-config
+yarn dlx @yarnpkg/sdks vscode
 ```
 
 ---
