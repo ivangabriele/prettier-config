@@ -10,12 +10,14 @@ Run:
 
 ```sh
 yarn add -DE @ivangabriele/prettier-config
+npx install-peerdeps -d @ivangabriele/prettier-config
 ```
 
 or:
 
 ```sh
 npm i -DE @ivangabriele/prettier-config
+npx install-peerdeps -d @ivangabriele/prettier-config
 ```
 
 Then add this line to your `package.json`:
@@ -25,6 +27,12 @@ Then add this line to your `package.json`:
   // ...
   "prettier": "@ivangabriele/prettier-config"
 }
+```
+
+### With Yarn Plug'n'Play
+
+```sh
+yarn unplug -R @ivangabriele/prettier-config
 ```
 
 ---

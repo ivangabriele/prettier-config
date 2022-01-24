@@ -7,13 +7,14 @@
   "scripts": {
     "prepare": "husky install"
   },
-  "dependencies": {
-    "prettier": "2.4.1"
-  },
   "devDependencies": {
     "@ivangabriele/commitlint-config": "1.0.1",
     "@ivangabriele/semantic-release-config-base": "1.0.1",
-    "husky": "7.0.4"
+    "husky": "7.0.4",
+    "prettier": "2.4.1"
+  },
+  "peerDependencies": {
+    "prettier": "^2.4.1"
   },
   "publishConfig": {
     "access": "public"
