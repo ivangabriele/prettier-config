@@ -9,7 +9,7 @@
   },
   "devDependencies": {
     "@ivangabriele/commitlint-config": "1.0.5",
-    "@ivangabriele/semantic-release-config-base": "1.5.0",
+    "@ivangabriele/semantic-release-config-base": "2.0.2",
     "husky": "7.0.4",
     "prettier": "2.5.1"
   },
