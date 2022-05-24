@@ -33,20 +33,20 @@
   resolved "https://registry.yarnpkg.com/@isaacs/string-locale-compare/-/string-locale-compare-1.1.0.tgz#291c227e93fd407a96ecd59879a35809120e432b"
   integrity sha512-SQ7Kzhh9+D+ZW9MA0zkYv3VXhIDNx+LzM6EJ+/65I3QY+enU6Itte7E5XX7EWrqLW2FN4n06GWzBnPoC3th2aQ==
 
-"@ivangabriele/commitlint-config@1.0.5":
-  version "1.0.5"
-  resolved "https://registry.yarnpkg.com/@ivangabriele/commitlint-config/-/commitlint-config-1.0.5.tgz#830d054d06f3c69b5ffd116acea96ccee0d298a6"
-  integrity sha512-zit08hx022BT9KNjj/7tgUIqdLNec/QgTyYOkOFieIAEah2UxHA7pD3B59lODkZzCL2XrGnFL189t/aNlv1IQA==
+"@ivangabriele/commitlint-config@1.0.6":
+  version "1.0.6"
+  resolved "https://registry.yarnpkg.com/@ivangabriele/commitlint-config/-/commitlint-config-1.0.6.tgz#9cef204ab6c939b030a005490d49218984f37282"
+  integrity sha512-l81vM90B//z1V6oApwItvH32UaGDmYp0z9Xnh6ZYRHz1oeFLgfyFNXNNOl8FFYxdI8E8VQEI6kc0uE3W3lVKRw==
 
-"@ivangabriele/semantic-release-config-base@2.0.2":
-  version "2.0.2"
-  resolved "https://registry.yarnpkg.com/@ivangabriele/semantic-release-config-base/-/semantic-release-config-base-2.0.2.tgz#493aa2f6389d33a4d0b84639ccbf2e150f40c5a1"
-  integrity sha512-fz3hksK3aIZf+qd5gQX1ZOIgJPDZOTKVMk3Vb1jO3Ur8iYGFaWa6erz3pMCDOd8UVkDd8R0w1BxqNIcJgSvz5w==
+"@ivangabriele/semantic-release-config-base@2.1.0":
+  version "2.1.0"
+  resolved "https://registry.yarnpkg.com/@ivangabriele/semantic-release-config-base/-/semantic-release-config-base-2.1.0.tgz#9d14c3018350d4a6007abd58f88cf1ecf1b9ad51"
+  integrity sha512-9zfoFPoCxPAmoE5uhTnyxibYGYJEThM7UbWgCaQ4GBhe2o52OPTiN3v2r5fZExZs4WahMn/o3fWmGNyX5hQunA==
   dependencies:
     "@semantic-release/changelog" "6.0.1"
     "@semantic-release/commit-analyzer" "9.0.2"
-    "@semantic-release/github" "8.0.2"
-    "@semantic-release/npm" "9.0.0"
+    "@semantic-release/github" "8.0.4"
+    "@semantic-release/npm" "9.0.1"
     "@semantic-release/release-notes-generator" "10.0.3"
     semantic-release "19.0.2"
 
@@ -358,7 +358,29 @@
   resolved "https://registry.yarnpkg.com/@semantic-release/error/-/error-3.0.0.tgz#30a3b97bbb5844d695eb22f9d3aa40f6a92770c2"
   integrity sha512-5hiM4Un+tpl4cKw3lV4UgzJj+SmfNIDCLLw0TepzQxz9ZGV5ixnqkzIVF+3tp0ZHgcMKE+VNGHJjEeyFG2dcSw==
 
-"@semantic-release/github@8.0.2", "@semantic-release/github@^8.0.0":
+"@semantic-release/github@8.0.4":
+  version "8.0.4"
+  resolved "https://registry.yarnpkg.com/@semantic-release/github/-/github-8.0.4.tgz#4ea242f6ad10a0474b0fbb09462e10c43518002a"
+  integrity sha512-But4e8oqqP3anZI5tjzZssZc2J6eoUdeeE0s7LVKKwyiAXJiQDWNNvtPOpgG2DsIz4+Exuse7cEQgjGMxwtLmg==
+  dependencies:
+    "@octokit/rest" "^18.0.0"
+    "@semantic-release/error" "^2.2.0"
+    aggregate-error "^3.0.0"
+    bottleneck "^2.18.1"
+    debug "^4.0.0"
+    dir-glob "^3.0.0"
+    fs-extra "^10.0.0"
+    globby "^11.0.0"
+    http-proxy-agent "^5.0.0"
+    https-proxy-agent "^5.0.0"
+    issue-parser "^6.0.0"
+    lodash "^4.17.4"
+    mime "^3.0.0"
+    p-filter "^2.0.0"
+    p-retry "^4.0.0"
+    url-join "^4.0.0"
+
+"@semantic-release/github@^8.0.0":
   version "8.0.2"
   resolved "https://registry.yarnpkg.com/@semantic-release/github/-/github-8.0.2.tgz#80114a41f6ec8ab6c0d38a436b48ff3f2223ab16"
   integrity sha512-wIbfhOeuxlYzMTjtSAa2xgr54n7ZuPAS2gadyTWBpUt2PNAPgla7A6XxCXJnaKPgfVF0iFfSk3B+KlVKk6ByVg==
@@ -380,7 +402,26 @@
     p-retry "^4.0.0"
     url-join "^4.0.0"
 
-"@semantic-release/npm@9.0.0", "@semantic-release/npm@^9.0.0":
+"@semantic-release/npm@9.0.1":
+  version "9.0.1"
+  resolved "https://registry.yarnpkg.com/@semantic-release/npm/-/npm-9.0.1.tgz#d81828eb1fb771e2767b3a8ee989915e1af27075"
+  integrity sha512-I5nVZklxBzfMFwemhRNbSrkiN/dsH3c7K9+KSk6jUnq0rdLFUuJt7EBsysq4Ir3moajQgFkfEryEHPqiKJj20g==
+  dependencies:
+    "@semantic-release/error" "^3.0.0"
+    aggregate-error "^3.0.0"
+    execa "^5.0.0"
+    fs-extra "^10.0.0"
+    lodash "^4.17.15"
+    nerf-dart "^1.0.0"
+    normalize-url "^6.0.0"
+    npm "^8.3.0"
+    rc "^1.2.8"
+    read-pkg "^5.0.0"
+    registry-auth-token "^4.0.0"
+    semver "^7.1.2"
+    tempy "^1.0.0"
+
+"@semantic-release/npm@^9.0.0":
   version "9.0.0"
   resolved "https://registry.yarnpkg.com/@semantic-release/npm/-/npm-9.0.0.tgz#b4868bb35cc64c3a040791661311398dd1fcadc0"
   integrity sha512-hj2jqayS2SPUmFtCMCOQMX975uMDfRoymj1HvMSwYdaoI6hVZvhrTFPBgJeM85O0C+G3IFviAUar5gel/1VGDQ==

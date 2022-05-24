@@ -8,8 +8,8 @@
     "prepare": "husky install"
   },
   "devDependencies": {
-    "@ivangabriele/commitlint-config": "1.0.5",
-    "@ivangabriele/semantic-release-config-base": "2.0.2",
+    "@ivangabriele/commitlint-config": "1.0.6",
+    "@ivangabriele/semantic-release-config-base": "2.1.0",
     "husky": "8.0.1",
     "prettier": "2.6.2"
   },
