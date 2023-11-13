@@ -46,7 +46,7 @@ yarn setup # install Husky hooks
 
 ---
 
-[img-license]: https://img.shields.io/github/license/ivangabriele/prettier-config?style=flat-square
-[img-npm]: https://img.shields.io/npm/v/@ivangabriele/prettier-config?style=flat-square
+[img-license]: https://img.shields.io/github/license/ivangabriele/prettier-config?style=for-the-badge
+[img-npm]: https://img.shields.io/npm/v/@ivangabriele/prettier-config?style=for-the-badge
 [lnk-license]: https://github.com/ivangabriele/prettier-config/blob/main/LICENSE
 [lnk-npm]: https://www.npmjs.com/package/@ivangabriele/prettier-config
