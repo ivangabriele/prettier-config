@@ -4,6 +4,9 @@
   "license": "MIT",
   "version": "3.1.0",
   "main": "./index.json",
+  "engines": {
+    "node": ">=20"
+  },
   "scripts": {
     "prepare": "husky install"
   },
