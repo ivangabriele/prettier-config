@@ -27,14 +27,6 @@ Then add this line to your `package.json`:
 }
 ```
 
-### With Yarn Plug'n'Play
-
-#### Visual Studio Code
-
-```sh
-yarn dlx @yarnpkg/sdks vscode
-```
-
 ## Contribute
 
 ### Setup
