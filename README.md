@@ -35,6 +35,15 @@ Then add this line to your `package.json`:
 yarn dlx @yarnpkg/sdks vscode
 ```
 
+## Contribute
+
+### Setup
+
+```sh
+yarn
+yarn setup # install Husky hooks
+```
+
 ---
 
 [img-license]: https://img.shields.io/github/license/ivangabriele/prettier-config?style=flat-square
