@@ -18,7 +18,7 @@ jobs:
           cache: yarn
           node-version: 20
       - name: Install
-        run: yarn
+        run: yarn --immutable
       - name: Release
         run: yarn semantic-release
         env:
