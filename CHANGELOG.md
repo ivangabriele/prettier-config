@@ -1,9 +1,14 @@
+## [4.0.1](https://github.com/ivangabriele/prettier-config/compare/v4.0.0...v4.0.1) (2023-11-13)
+
+- Remove useless files from npm package.
+- Update README.
+
 ## [4.0.0](https://github.com/ivangabriele/prettier-config/compare/v3.1.0...v4.0.0) (2023-11-13)
 
 ### BREAKING CHANGES
 
-- Require Node v20 or higher
-- Require Prettier v3
+- Require Node v20 or higher.
+- Require Prettier v3.
 
 ## [3.1.0](https://github.com/ivangabriele/prettier-config/compare/v3.0.2...v3.1.0) (2022-05-25)
 
