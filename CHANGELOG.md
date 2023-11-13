@@ -1,4 +1,13 @@
-# [3.1.0](https://github.com/ivangabriele/prettier-config/compare/v3.0.2...v3.1.0) (2022-05-25)
+## [4.0.0](https://github.com/ivangabriele/prettier-config/compare/v3.1.0...v4.0.0) (2023-11-13)
+
+
+### BREAKING CHANGES
+
+- Require Node v20 or higher
+- Require Prettier v3
+
+## [3.1.0](https://github.com/ivangabriele/prettier-config/compare/v3.0.2...v3.1.0) (2022-05-25)
+
 
 ### Bug Fixes
 
