@@ -17,6 +17,12 @@
 
   "overrides": [
     {
+      "files": ".eslintrc",
+      "options": {
+        "trailingComma": "none"
+      }
+    },
+    {
       "files": "*.sol",
       "options": {
         "singleQuote": false
