@@ -47,6 +47,6 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ivangabriele/prettier-config.git"
+    "url": "git+ssh://git@github.com/ivangabriele/prettier-config.git"
   }
 }
