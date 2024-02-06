@@ -1,6 +1,5 @@
 ## [4.0.0](https://github.com/ivangabriele/prettier-config/compare/v3.2.0...v4.0.0) (2024-02-06)
 
-
 ### ⚠ BREAKING CHANGES
 
 - Forced major version bump.
