@@ -5,7 +5,7 @@
   "version": "4.0.1",
   "type": "module",
   "engines": {
-    "node": ">=20"
+    "node": ">=20.8.1"
   },
   "main": "./index.json",
   "scripts": {
@@ -17,7 +17,8 @@
     "@ivangabriele/commitlint-config": "1.1.0",
     "@ivangabriele/semantic-release-config-base": "3.0.3",
     "husky": "9.0.10",
-    "prettier": "3.2.5"
+    "prettier": "3.2.5",
+    "semantic-release": "23.0.1"
   },
   "peerDependencies": {
     "prettier": "^3.0.0"
