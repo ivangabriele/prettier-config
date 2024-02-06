@@ -2,7 +2,7 @@
   "name": "@ivangabriele/prettier-config",
   "description": "My most commonly used Prettier config.",
   "license": "MIT",
-  "version": "4.0.1",
+  "version": "3.2.0",
   "type": "module",
   "engines": {
     "node": ">=20.8.1"
