@@ -17,14 +17,18 @@
     "@ivangabriele/commitlint-config": "1.1.0",
     "@ivangabriele/semantic-release-config-base": "4.0.0",
     "husky": "9.0.10",
+    "lint-staged": "15.2.2",
     "prettier": "3.2.5",
     "semantic-release": "23.0.1"
   },
   "peerDependencies": {
-    "prettier": "^3.0.0"
+    "prettier": "^3"
   },
   "resolutions": {
     "minimist": ">=1.2.6"
+  },
+  "lint-staged": {
+    "*.{json,md,yaml,yml}": "prettier --write"
   },
   "packageManager": "yarn@4.1.0",
   "prettier": ".",

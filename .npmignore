@@ -1,8 +1,6 @@
-/.github
-/.husky
-/.yarn
-/.yarn
-
-/.commitlintrc
-/.editorconfig
-/.yarnrc.yml
+/*
+!/CHANGELOG.md
+!/index.json
+!/LICENSE
+!/package.json
+!/README.md
