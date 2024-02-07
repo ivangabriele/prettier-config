@@ -285,7 +285,7 @@ __metadata:
     prettier: "npm:3.2.5"
     semantic-release: "npm:23.0.1"
   peerDependencies:
-    prettier: ^3.0.0
+    prettier: ^3
   languageName: unknown
   linkType: soft
 
