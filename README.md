@@ -4,18 +4,25 @@
 
 My most commonly used Prettier configuration.
 
+---
+
+- [Usage](#usage)
+- [Contribute](#contribute)
+
+---
+
 ## Usage
 
 Run:
 
 ```sh
-yarn add -DE @ivangabriele/prettier-config prettier@^3.0.0
+npm i -DE @ivangabriele/prettier-config prettier@^3.0.0
 ```
 
 or:
 
 ```sh
-npm i -DE @ivangabriele/prettier-config prettier@^3.0.0
+yarn add -DE @ivangabriele/prettier-config prettier@^3.0.0
 ```
 
 Then add this line to your `package.json`:
@@ -29,12 +36,7 @@ Then add this line to your `package.json`:
 
 ## Contribute
 
-### Setup
-
-```sh
-yarn
-yarn setup # install Husky hooks
-```
+Please refer to the [contribution guidelines](./CONTRIBUTING.md) for information on how to contribute to this project.
 
 ---
 
