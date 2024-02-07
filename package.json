@@ -9,7 +9,8 @@
   },
   "main": "./index.json",
   "scripts": {
-    "prepare": "husky"
+    "prepare": "husky",
+    "test:lint": "yarn prettier --check ."
   },
   "devDependencies": {
     "@commitlint/cli": "18.6.0",
